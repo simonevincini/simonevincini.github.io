@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD student at [SISSA](www.sissa.it)</a>. 
+subtitle: PhD student at <a href="https://www.sissa.it">SISSA</a>. 
 # Address. Contacts. Motto. Etc.
 
 profile:
