@@ -34,4 +34,10 @@ latest_posts:
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
+I am a postdoc researcher in Mathematics in the FWF-funded "Emerging Fields" project <a href="https://ef-geometry.univie.ac.at">A new Geometry for Einstein’s Theory of Relativity & Beyond</a>, at the <a href=https://www.univie.ac.at>University of Vienna</a>.
+
+Previously, I was a PhD student at <a href="https://www.sissa.it">SISSA, Trieste</a>, working under the supervision of Nicola Gigli.
+
+My main research interests are Optimal Transport, Nonsmooth Differential Geometry (both in positive signature and Lorentzian) and Calculus of Variations.
+
 This website is under construction. If that made you sad, hang on!
