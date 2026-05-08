@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at <a href="https://www.sissa.it">SISSA</a>. 
+subtitle: Postdoc researcher at the <a href="https://www.univie.ac.at">University of Vienna</a>. 
 # Address. Contacts. Motto. Etc.
 
 profile:
@@ -10,9 +10,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 705, 7th floor</p>
-    <p>Via Bonomea, 265</p>
-    <p>31436, Trieste, Italy</p>
+    <p>Office 3.130, 3rd floor</p>
+    <p>Oskar-Morgenstern-Platz, 1</p>
+    <p>1090, Vienna, Austria</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
